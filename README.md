@@ -1,6 +1,4 @@
 
-markdown
-Copy code
 # Snake Game in Python
 
 ## Description
