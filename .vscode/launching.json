@@ -1,0 +1,13 @@
+{
+    "version": "3.12.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "pythonPath": "py"
+        }
+    ]
+}
